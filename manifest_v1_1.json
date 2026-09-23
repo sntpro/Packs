@@ -1,0 +1,17 @@
+{
+  "library_version": "1.1",
+  "packs": [
+    {
+      "id": "electronics_basic",
+      "name": "DZ Electronics Basic",
+      "version": "1.1",
+      "download_url": "https://raw.githubusercontent.com/sntpro/Packs/main/electronics_basic.zip",
+      "sha256": "939c7531040bf71211f7014e1d051207dbea96bcbd0b91cc6b6acab996291eed",
+      "size": 27045,
+      "license": "CC0-1.0",
+      "author": "DZ Box Designer",
+      "source": "Bibliothèque vectorielle DZ Electronics Basic",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}
