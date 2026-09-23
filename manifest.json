@@ -1,0 +1,17 @@
+{
+  "library_version": "1.0",
+  "packs": [
+    {
+      "id": "electronics_basic",
+      "name": "DZ Electronics Basic",
+      "version": "1.0",
+      "download_url": "https://YOUR-HOST.example/dzbox/electronics_basic.zip",
+      "sha256": "824430dcc762cbeb1b5db53696c8bb111e8ad7c1544572b0b98afa0b33e3c03f",
+      "size": 6781,
+      "license": "CC0-1.0",
+      "author": "Bibliothèque pédagogique DZ Box Designer",
+      "source": "Bibliothèque pédagogique intégrée au projet",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}
